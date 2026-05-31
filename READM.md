@@ -5,3 +5,6 @@ Instalação executada **Rundeck**
 
 ## Instruções
 
+Basta executar :
+bash main.sh
+
